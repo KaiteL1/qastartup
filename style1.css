@@ -1,0 +1,135 @@
+body{
+	margin:0 200px 0 200px; 
+	border-width: 10px;
+	border-style: ridge;
+	border-color: grey;
+	width: 1000px;
+	height: 710px;
+	
+}
+.h1{
+	font-size: 36px;
+	margin-top: 0px;
+	padding-top:15px; 
+	padding-bottom:5px;
+	margin-bottom: 0;
+}
+#Head{
+	background-color:#255468;
+	text-align: center;	
+	height: 50px
+	margin-bottom:0px;
+	padding-bottom: 0px;
+}
+#right_side{
+	width:35%;
+	height: 650px;
+	background-color: #464646;
+	background: linear-gradient(to bottom right,#464646, grey);
+	float: left;
+}
+.dog{
+	border-radius: 90px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #828282;
+}
+.photo{
+margin-left: 25px;
+margin-bottom: 0;
+}
+h1{
+	text-align: center;
+	font-style: italic;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 46px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.line{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #D8DB56;
+	width: 80%;
+	margin: 0 0 0 30px;
+
+}
+.like{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	text-decoration: underline; 
+	font-style: italic;
+    font-family: "Comic Sans MS";
+}
+.listA{
+	text-align: center;
+	color: white;
+	font-weight: normal;
+	border-radius: 10px;
+	background: #FEA700;
+	padding: 2px;
+	margin: auto 10px 5px 10px;
+	width:270px;
+	height: 15px;
+}
+.listB{
+	text-align: center;
+	color: white;
+	font-weight: normal;
+	border-radius: 10px;
+	background: #0B71D6;
+	padding: 2px;
+	margin: 5px auto 5px 10px;
+	width:180px;
+	height: 15px;
+}
+.listC{
+	text-align: center;
+	color: white;
+	font-weight: normal;
+	border-radius: 10px;
+	background: #027E03;
+	padding: 2px;
+	margin:5px auto 5px 10px;
+	width:300px;
+	height: 15px;
+}
+a{
+	color:blue;
+}
+.link{
+	list-style: disc;
+	color: white;
+}
+#left_side{
+	width: 60%;
+	margin-left: 355px;
+	color: #03497D;
+	font-style: italic;
+    font-family: "Comic Sans MS";
+}
+h4{
+	margin: 10px 5px 10px 2px;
+	font-size: 20px;
+}
+lass="list"{
+	font-size: 14px;
+}
+.line1{
+	border-bottom-width: 1.5px;
+	border-bottom-style: solid;
+	border-bottom-color: #407ABF;
+	width: 60%;
+	margin: 10px 0 0 0;
+}
+ul{
+	list-style-type: none;
+}
+.pop:before {
+  content: "–"; 
+  position: absolute;
+  margin-left: -1.1em; 
+  }
